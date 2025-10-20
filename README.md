@@ -1,0 +1,5 @@
+Tujuan dibuatnya website *CoffeeShope* adalah untuk menjadi media promosi digital yang efektif bagi usaha kedai kopi. Melalui website ini, pengunjung dapat mengenal lebih jauh tentang produk, layanan, dan suasana kafe tanpa harus datang langsung ke lokasi. Website ini juga berfungsi untuk memperluas jangkauan pasar dengan memberikan informasi yang lengkap, menarik, dan mudah diakses oleh calon pelanggan secara online.
+
+Selain sebagai sarana promosi, website CoffeeShope bertujuan meningkatkan citra profesional usaha dengan tampilan modern dan responsif. Website ini dirancang agar pengunjung dapat melihat menu, membaca profil usaha, dan menghubungi pihak CoffeeShope melalui fitur kontak yang tersedia. Dengan adanya website ini, diharapkan komunikasi antara pelanggan dan pemilik usaha menjadi lebih mudah, cepat, dan efisien.
+
+Secara keseluruhan, tujuan utama website CoffeeShope adalah untuk memperkenalkan identitas merek, menarik pelanggan baru, serta menyediakan platform informasi dan interaksi yang mendukung pengembangan bisnis kopi secara digital.
